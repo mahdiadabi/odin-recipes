@@ -1,3 +1,3 @@
 # odin-recipes
-# about
+## About
 A simple project made for "The Odin Project"
